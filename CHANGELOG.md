@@ -6,6 +6,13 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+### Changed
+- CI actions updated to `actions/checkout@v7` and `actions/setup-node@v7` (Node 20 runtime deprecation).
+- Brand marks regenerated from Simple Icons 16.32.0 (no icon changed; version label and notices only).
+
+### Removed
+- Unused dev dependencies `parse5` and `saxes`, inherited from Archify's browser tests.
+
 ## [0.1.0] — 2026-09-24
 
 First public release. Forked from [Archify](https://github.com/tt-a1i/archify) 2.17.0-dev.1.
