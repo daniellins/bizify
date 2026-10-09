@@ -43,11 +43,12 @@ instructions in `SKILL.md` only rely on running `node bin/bizify.mjs …` in a s
 access, the agent can still read the schemas and hand-write SVG into `assets/template.html`
 (documented fallback), but no validation runs.
 
-## Using it next to Archify
+## Using it next to Archify and c4ify
 
-Bizify and Archify can be installed side by side. Their descriptions are written to trigger on
-different requests: business diagrams (WBS, BPMN, VSM, impact map, story map, SIPOC) → Bizify;
-software architecture, sequence, data-flow and state diagrams → Archify.
+Bizify, Archify and [c4ify](https://github.com/daniellins/c4ify) can be installed side by side.
+Their descriptions are written to trigger on different requests: business diagrams (WBS, BPMN,
+VSM, impact map, story map, SIPOC) → Bizify; C4 model diagrams (system context, containers,
+components) → c4ify; other software architecture, sequence, data-flow and state diagrams → Archify.
 
 ## Troubleshooting
 
