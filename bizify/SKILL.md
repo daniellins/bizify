@@ -10,7 +10,8 @@ description: >
   OMG BPMN, Learning to See, Adzic, Patton, Six Sigma). Use when the user asks for an EAP,
   WBS, estrutura analítica, BPMN, mapeamento/modelagem de processos, fluxograma com raias,
   fluxo de valor, MFV, VSM, mapa de impacto, story map, mapa de histórias, SIPOC, or a
-  business diagram for a proposal or plano de trabalho. Not for software architecture,
+  business diagram for a proposal or plano de trabalho. Not for C4 model diagrams (system
+  context, containers, components: use c4ify), nor for other software architecture,
   sequence, data-flow or state diagrams (use archify).
 license: MIT
 metadata:

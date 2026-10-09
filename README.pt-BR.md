@@ -21,7 +21,9 @@ foco, visões guiadas, modo apresentação e exportação PNG/SVG/WebM.
 > O Archify é uma skill excelente para diagramas de *arquitetura de software*. O Bizify mantém o
 > visualizador, o pipeline de entrega e os portões de qualidade do Archify e troca o conhecimento de
 > arquitetura pelos **diagramas de negócio** que um projeto de tecnologia precisa: escopo, processo,
-> fluxo e planejamento. Para arquitetura, sequência, fluxo de dados ou estados, use o Archify.
+> fluxo e planejamento. Para arquitetura, sequência, fluxo de dados ou estados, use o Archify; para
+> diagramas do **modelo C4** (contexto, contêineres, componentes), use o projeto irmão
+> **[c4ify](https://github.com/daniellins/c4ify)**.
 
 ## O que ele gera
 

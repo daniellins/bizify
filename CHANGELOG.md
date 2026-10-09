@@ -7,6 +7,11 @@ All notable changes to this project are documented here. The format follows
 ## [Unreleased]
 
 ### Changed
+- The skill description and docs route C4 model diagrams (system context, containers,
+  components) to the sibling project [c4ify](https://github.com/daniellins/c4ify), so the two
+  skills do not compete for the same requests.
+
+### Changed
 - CI actions updated to `actions/checkout@v7` and `actions/setup-node@v7` (Node 20 runtime deprecation).
 - Brand marks regenerated from Simple Icons 16.32.0 (no icon changed; version label and notices only).
 

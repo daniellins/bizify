@@ -27,7 +27,8 @@ visual presets, pan/zoom, search, focus, guided views, presentation mode and PNG
 > Archify is an excellent skill for *software architecture* diagrams. Bizify keeps Archify's viewer,
 > delivery pipeline and quality gates, and replaces the architecture knowledge with **business
 > diagrams** that technology projects need — scope, process, flow and planning. If you need
-> architecture, sequence, data-flow or state diagrams, use Archify. See [Origin and credits](#origin-and-credits).
+> architecture, sequence, data-flow or state diagrams, use Archify; for **C4 model** diagrams (context,
+> containers, components), use its sibling **[c4ify](https://github.com/daniellins/c4ify)**. See [Origin and credits](#origin-and-credits).
 
 ## Gallery
 
@@ -164,7 +165,7 @@ docs/                    project documentation and gallery images
 ## Contributing
 
 Contributions are very welcome — new diagram types (Kanban board, RACI matrix, Gantt, OKR tree,
-Business Model Canvas, C4-for-business…), better layouts, rule corrections backed by sources,
+Business Model Canvas…), better layouts, rule corrections backed by sources,
 translations and examples. Start with [CONTRIBUTING.md](CONTRIBUTING.md) and the
 [roadmap](ROADMAP.md). Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
